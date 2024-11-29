@@ -60,11 +60,6 @@ The following statistical and machine learning techniques are explored:
 
 ---
 
-## 📑 File Structure
-
-
-
----
 
 ## 🔧 Requirements
 
